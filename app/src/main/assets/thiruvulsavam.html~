@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Vimmala Ulsavam 2016 - Thiruvulsavam</title>
+
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/vimmalaulsavam.css" rel="stylesheet">
+
+<!-- Custom Fonts -->
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+</head>
+
+<body>
+<div id="preloader">
+       <div id="status" ></div>
+</div>
+<!--               <h5 class="centeralign">ദശാവതാരം ചന്ദനം ചാർത്ത് 2016</h5>--> 
+<!-- Navigation --> 
+
+<!-- Page Content -->
+<div class="container"> 
+  
+  <!-- Page Heading/Breadcrumbs -->
+  <div class="row">
+    <div class="col-lg-12">
+      <h4 class="mainhead">തിരുവുത്സവം - പരിപാടികൾ</h4>
+      <div id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingOne">
+            <h5 class="mb-0"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="bluecolor">ഒന്നാം ദിവസം (06-01-2017 വെള്ളി)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseOne" class="collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പതിവ്‌പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 7.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorblue">തൃക്കൊടിയേറ്റ് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അത്താഴപൂജ , ശ്രീഭൂതബലി</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingTwo">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"  class="bluecolor" >രണ്ടാം ദിവസം (07-01-2017 ശനി)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പതിവ്‌പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">9.00 മുതൽ  1.30 വരെ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorgreen">ഉത്സവബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">10.30 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorlightgreen">ഉത്സവബലി ദർശനം </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">ഉച്ചക്ക് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രസാദഊട്ട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അത്താഴപൂജ , ശ്രീഭൂതബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 7.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">അരങ്ങേറ്റവും നൃത്തനൃത്ത്യങ്ങളും</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണവും സമർപ്പണവും - ലാസ്യ സ്കൂൾ ഓഫ് ഡാൻസ്  & മ്യൂസിക്, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingThree">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseTwo">മൂന്നാം  ദിവസം (08-01-2017 ഞായർ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പതിവ്‌പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">ഉച്ചക്ക് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രസാദഊട്ട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അത്താഴപൂജ , ശ്രീഭൂതബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 9.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">ബാലെ " യദുകുലനാഥൻ "</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - തിരുവനന്തപുരം കലാക്ഷേത്ര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingFour">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">നാലാം  ദിവസം (09-01-2017 തിങ്കൾ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പതിവ്‌പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">8.00 മുതൽ</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">നാരായണീയ പാരായണം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - ഗോപീകൃഷ്ണ നാരായണീയ പാരായണ സമിതി, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">ഉച്ചക്ക് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രസാദഊട്ട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അത്താഴപൂജ , ശ്രീഭൂതബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 7.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">തായമ്പക</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - കീഴില്ലം ശ്രീജിത്ത് & ശ്രീകാന്ത് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 9.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">നാടകം  " വെയിൽ "</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - വള്ളുവനാട്  കൃഷ്ണ കലാലയം </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingFive">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">അഞ്ചാം  ദിവസം (10-01-2017 ചൊവ്വ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പതിവ്‌പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">8.00 മുതൽ</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">ശ്രീബലി എഴുന്നെള്ളിപ്പ് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorthemeblue">നാദസ്വരം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - ശ്രീ.കീഴുർ പ്രഭ & പാർട്ടി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorthemeblue">സ്പെഷ്യൽ പഞ്ചാരിമേളം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രമാണം - ശ്രീ.തിരുമുപ്പം ഉണ്ണിക്കൃഷ്ണൻമാരാർ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">ഉച്ചക്ക് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രസാദഊട്ട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  3.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">തുടികൊട്ടും കുടകളിയും മുടിയാട്ടവും </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണവും സമർപ്പണവും - മനയത്തുകുടി ശ്രീ.കുറുമ്പൻ അയ്യപ്പനും സംഘവും</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അത്താഴപൂജ , ശ്രീഭൂതബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 7.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">അവാർഡ്ധാനം </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 7.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">തിരുവാതിരകളി</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">എൻ എസ്സ് എസ്സ് വനിതാസമാജം, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാത്രി 8.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorpink">വലിയവിളക്ക് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">നാദസ്വരം, കേളി, കൊമ്പുപറ്റ്, കുഴൽപറ്റ്, ഇലഞ്ഞിത്തറ പാണ്ടിമേളം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രമാണം - ശ്രീ.ചേരാനല്ലൂർ ശങ്കരന്കുട്ടിമാരാർ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingSix">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">ആറാം ദിവസം (11-01-2017 ബുധൻ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 4.00 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പള്ളിയുണർത്തൽ</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">5.00 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നടതുറപ്പ് , നിർമാല്യ ദർശനം</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">വിശേഷാൽ അഭിഷേകങ്ങൾ, പതിവ് പൂജകൾ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">രാവിലെ 9.30 ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">ചാക്യാർകൂത്ത്</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - വിദൂഷകരത്നം ഡോ.എടനാട് രാജൻ നമ്പ്യാർ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">സമർപ്പണം - ശ്രീ.മനോജ് പഞ്ഞശ്ശേരി, വൈഗ വെഡ്ഡിംഗ് കളക്ഷൻസ്, വളയൻചിറങ്ങര </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">ഉച്ചക്ക് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രസാദഊട്ട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട് 4-6 വരെ</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">നാദസ്വരക്കച്ചേരി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അവതരണം - ശ്രീ കൂഴൂര്‍ പ്രഭ & പാര്‍ട്ടി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorgreen">ആറാട്ട്‌ബലി </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorblue">കൊടിയിറക്കല്‍ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorlightgreen">ആറാട്ട്‌പുറപ്പാട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorpink">തിരുആറാട്ട്‌ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorgreen">ആറാട്ട്‌ എതിരേല്‍പ്പ് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">( നാദസ്വര മേളത്തിന്റെ അകമ്പടിയോടെ )</div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">മേജര്‍സെറ്റ് പഞ്ചവാദ്യം </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5"></div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">പ്രമാണം - ശ്രീ പറക്കാട് തങ്കപ്പമാരാര്‍ </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടര്‍ന്ന്</div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorviloet">കൊമ്പുപറ്റ്, കുഴൽപറ്റ്, പാണ്ടിമേളം </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /.container --> 
+
+<!-- jQuery --> 
+<script src="js/jquery.js"></script> 
+
+<!-- Bootstrap Core JavaScript --> 
+<script src="js/bootstrap.min.js"></script> 
+<script>$('.collapse').on('shown.bs.collapse', function () {
+                $(this).parent().find(".glyphicon-plus").removeClass("glyphicon-plus").addClass("glyphicon-minus");
+            }).on('hidden.bs.collapse', function () {
+                $(this).parent().find(".glyphicon-minus").removeClass("glyphicon-minus").addClass("glyphicon-plus");
+            });</script>
+                 <script type="text/javascript">
+	//<![CDATA[
+		$(window).load(function() { // makes sure the whole site is loaded
+			$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+</script>
+
+</body>
+</html>

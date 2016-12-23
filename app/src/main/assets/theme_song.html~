@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ulsavam Theme Song</title>
+</head>
+<body>
+
+<h3>Ulsavam Theme Song</h3>
+<img src="images/arn.jpg" width="150px" height="150px"/>
+<p>Music Direction. Amal R Nadh(Vimmala)
+Lyric: Vishnu K.R
+Singer:Robin Thomas
+Produced by:Vlc gang
+Video coming soon....</p>
+
+<audio controls>
+ 
+  <source src="http://programmerguru.com/android-tutorial/wp-content/uploads/2013/04/hosannatelugu.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Vimmala Ulsavam 2016 - Dhashavathaaram</title>
+
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/vimmalaulsavam.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/jSpinner/ui.spinner.css" />
+<!-- Custom Fonts -->
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+</head>
+
+<body>
+<div id="preloader">
+       <div id="status" ></div>
+</div>
+
+<!--               <h5 class="centeralign">ദശാവതാരം ചന്ദനം ചാർത്ത് 2016</h5>--> 
+<!-- Navigation --> 
+
+<!-- Page Content -->
+<div class="container"> 
+  
+  <!-- Page Heading/Breadcrumbs -->
+  <div class="row">
+    <div class="col-lg-12">
+      <h4 class="mainhead">ദശാവതാരം ചന്ദനം ചാർത്ത്</h4>
+      <h5 class="subhead">ദർശന സമയം വൈകുന്നേരം 5.00 മണി മുതൽ</h5>
+      <div id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingOne">
+            <h5 class="mb-0"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="bluecolor">മത്സ്യാവതാരം (26-12-2016 തിങ്കൾ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseOne" class="collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> ആത്മീയ പ്രഭാഷണം -  പ്രൊഫ .പി .ജി .ഹരിദാസ് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> കുട്ടികളുടെ കലാപരിപാടികൾ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingTwo">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"  class="bluecolor" >കൂർമ്മാവതാരം (27-12-2016 ചൊവ്വ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> കുട്ടികളുടെ കലാപരിപാടികൾ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingThree">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseTwo">വരാഹാവതാരം (28-12-2016 ബുധൻ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> ആത്മീയ പ്രഭാഷണം - ശ്രീ. ബാബു മാനിക്കാട് </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> കുട്ടികളുടെ കലാപരിപാടികൾ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingFour">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">നരസിംഹാവതാരം (29-12-2016 വ്യാഴം)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> കുട്ടികളുടെ കലാപരിപാടികൾ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingFive">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">വാമനാവതാരം (30-12-2016 വെള്ളി)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> കുട്ടികളുടെ കലാപരിപാടികൾ </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingSix">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">പരശുരാമാവതാരം (31-12-2016 ശനി)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> അരങ്ങേറ്റവും സംഗീതാർച്ചനയും, ലാസ്യ സ്കൂൾ ഓഫ് ഡാൻസ്  & മ്യൂസിക്, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingSeven">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">ശ്രീരാമാവതാരം (01-01-2017 ഞായർ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred"> സംഗീതാർച്ചന, അവതരണം - സ്വാതി സംഗീതാലയം ,വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingEight">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">ബാലരാമാവതാരം  (02-01-2017 തിങ്കൾ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ഓട്ടൻതുള്ളൽ, അവതരണം - കുമാരി രഞ്ജിനി ചന്ദ്രൻ, പാല </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingNine">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">ശ്രീകൃഷ്ണാവതാരം   (03-01-2017 ചൊവ്വ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="headingNine">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">നൃത്തസന്ധ്യ, അവതരണവും സമർപ്പണവും - മുദ്ര സ്കൂൾ ഓഫ് ആർട്സ്, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingTen">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">ഖഡ്‌ഗി അവതാരം (04-01-2017 ബുധൻ)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="headingTen">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">സോപാനനൃത്തം, അവതരണം - ശ്രീ.മങ്കൊമ്പ് രാജീവ്  കൃഷ്‌ണ</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card borderstyle">
+          <div class="card-header" role="tab" id="headingEleven">
+            <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">വിശ്വരൂപം  (05-01-2017 വ്യാഴം)<span class="glyphicon glyphicon-plus left"></span> </a> </h5>
+          </div>
+          <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="headingEleven">
+            <div class="card-block">
+              <div class="col-md-5 col-sm-5 col-xs-5">വൈകിട്ട്  6.30 മുതൽ </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">ദീപാരാധന </div>
+              <div class="clearfix"></div>
+              <div class="col-md-5 col-sm-5 col-xs-5">തുടർന്ന് </div>
+              <div class="col-md-1 col-sm-1 col-xs-1"> : </div>
+              <div class="col-md-5 col-sm-5 col-xs-5 colorred">അരങ്ങേറ്റവും നൃത്തനൃത്ത്യങ്ങളും, 
+                അവതരണവും സമർപ്പണവും - ചിലമ്പൊലി നൃത്തവിദ്യാലയം, വളയൻചിറങ്ങര</div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /.container --> 
+
+<!-- jQuery --> 
+<script src="js/jquery.js"></script> 
+
+<!-- Bootstrap Core JavaScript --> 
+<script src="js/bootstrap.min.js"></script> 
+<script>$('.collapse').on('shown.bs.collapse', function () {
+                $(this).parent().find(".glyphicon-plus").removeClass("glyphicon-plus").addClass("glyphicon-minus");
+            }).on('hidden.bs.collapse', function () {
+                $(this).parent().find(".glyphicon-minus").removeClass("glyphicon-minus").addClass("glyphicon-plus");
+            });</script>
+
+     <script type="text/javascript">
+	//<![CDATA[
+		$(window).load(function() { // makes sure the whole site is loaded
+			$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+</script>
+       
+
+            
+</body>
+</html>
